@@ -87,9 +87,9 @@ This suggests that more goals are scored in women’s international soccer match
 
 The following histograms illustrate the right-skewed distribution of goals scored in both men's and women's FIFA World Cup matches:
 
-![Men's Goals Distribution](https://github.com/MohamedMostafa259/Hypothesis-Testing-with-Men-and-Women-Soccer-Matches//blob/d27098b40bb41b528f39d8318618da5897723c72/visuals/MenDist.png)  
+![Men's Goals Distribution](https://github.com/MohamedMostafa259/Hypothesis-Testing-with-Men-and-Women-Soccer-Matches//blob/main/visuals/MenDist.png)  
 
-![Women's Goals Distribution](https://github.com/MohamedMostafa259/Hypothesis-Testing-with-Men-and-Women-Soccer-Matches//blob/d27098b40bb41b528f39d8318618da5897723c72/visuals/WomenDist.png)
+![Women's Goals Distribution](https://github.com/MohamedMostafa259/Hypothesis-Testing-with-Men-and-Women-Soccer-Matches//blob/main/visuals/WomenDist.png)
 
 ## Future Improvements
 
